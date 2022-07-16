@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# About Me
+- Aspiring Penetration Tester/Cybersecurity Engineer
+- Programmer (Java, C++, Python)
+- Technology Enthusiast
+
+# Currently Learning
+- Ethical Hacking/Penetration Testing
+- Computer Networking
+- Computer Science
+
 <!--
 **OmnipotentBlade/omnipotentblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
