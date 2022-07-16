@@ -4,6 +4,7 @@
 - Aspiring Penetration Tester/Cybersecurity Engineer
 - Programmer (Java, C++, Python)
 - Technology Enthusiast
+- Programmer on FRC Team 5599
 
 ## Currently Learning
 - Ethical Hacking/Penetration Testing
