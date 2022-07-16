@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-# About Me
+## About Me
 - Aspiring Penetration Tester/Cybersecurity Engineer
 - Programmer (Java, C++, Python)
 - Technology Enthusiast
 
-# Currently Learning
+## Currently Learning
 - Ethical Hacking/Penetration Testing
 - Computer Networking
 - Computer Science
