@@ -11,6 +11,9 @@
 - Computer Networking
 - Computer Science
 
+## Projects I'm Currently Working On
+- ![Lock256Icon](https://github.com/OmnipotentBlade/omnipotentblade/blob/main/256_icon_rounded.png)
+
 <!--
 **OmnipotentBlade/omnipotentblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
