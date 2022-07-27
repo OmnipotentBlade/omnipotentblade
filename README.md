@@ -12,7 +12,7 @@
 - Computer Science
 
 ## Projects I'm Currently Working On
-# Lock256
+### Lock256
 > <img src="https://github.com/OmnipotentBlade/omnipotentblade/blob/main/256_icon_rounded.png" width="60" height="60">
 
 <!--
