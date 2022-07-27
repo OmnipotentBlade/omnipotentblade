@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![OmnipotentBlades's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmnipotentBlade&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About Me
 - Aspiring Penetration Tester/Cybersecurity Engineer
 - Programmer (Java, C++, Python)
@@ -18,6 +16,10 @@
 
 ## Projects I'm Currently Working On
 - <img align="center" src="https://github.com/OmnipotentBlade/omnipotentblade/blob/main/256_icon_rounded.png" width="50" height="50"> [Lock256](https://github.com/OmnipotentBlade/Lock256)
+
+##
+
+[![OmnipotentBlades's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmnipotentBlade&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **OmnipotentBlade/omnipotentblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
