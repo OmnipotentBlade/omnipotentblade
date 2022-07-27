@@ -12,7 +12,8 @@
 - Computer Science
 
 ## Projects I'm Currently Working On
-> <img src="https://github.com/OmnipotentBlade/omnipotentblade/blob/main/256_icon_rounded.png" width="100" height="100"> Lock256
+# Lock256
+> <img src="https://github.com/OmnipotentBlade/omnipotentblade/blob/main/256_icon_rounded.png" width="60" height="60">
 
 <!--
 **OmnipotentBlade/omnipotentblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
