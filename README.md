@@ -11,6 +11,7 @@
 - Computer Networking
 - Computer Science
 - Linux (Kali)
+- Music Composition
 - Piano
 
 ## Projects I'm Currently Working On
