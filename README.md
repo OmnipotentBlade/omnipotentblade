@@ -1,27 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Ahmed! 👋
 
 ## About Me
 - Aspiring Penetration Tester/Cybersecurity Engineer
-- Programmer (Java, C++, Python)
-- Technology Enthusiast
-- Programming Captain of FRC Team 5599
+- Programming Captain of [FRC Team 5599](https://www.github.com/Team5599/)
+- Programmer (Java, C++, Python, JavaScript, HTML, CSS)
+- Technology & Electronics Enthusiast
+- Pianist & Bassist
 
-## Currently Learning
-- Ethical Hacking/Penetration Testing
-- Computer Networking
-- Computer Science
-- Linux (Kali)
-- Music Composition
-- Piano
-
-## Projects I'm Currently Working On
+## Personal Projects I'm Working On
 - <img align="center" src="https://github.com/OmnipotentBlade/omnipotentblade/blob/main/256_icon_rounded.png" width="50" height="50"> [Lock256](https://github.com/OmnipotentBlade/Lock256)
 
-##
-
-[![OmnipotentBlades's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmnipotentBlade&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+[![OmnipotentBlades's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmnipotentBlade&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **OmnipotentBlade/omnipotentblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
