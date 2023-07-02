@@ -2,13 +2,13 @@
 
 ## About Me
 - Aspiring Penetration Tester/Cybersecurity Engineer
-- Programming Captain of [FRC Team 5599](https://www.github.com/Team5599/)
+- Robotics Mentor (Programming, Electronics, Pneumatics) at [FRC Team 5599](https://www.github.com/Team5599/)
 - Programmer (Java, C++, Python, JavaScript, HTML, CSS)
 - Technology & Electronics Enthusiast
 - Pianist & Bassist
 
 ## Personal Projects I'm Working On
-- <img align="center" src="https://github.com/OmnipotentBlade/omnipotentblade/blob/main/256_icon_rounded.png" width="50" height="50"> [Lock256](https://github.com/OmnipotentBlade/Lock256)
+- <img align="center" src="https://github.com/OmnipotentBlade/omnipotentblade/blob/main/256_icon_rounded.png" width="50" height="50"> [Lock256](https://github.com/OmnipotentBlade/Lock256) (hiatus)
 
 
 <!--
